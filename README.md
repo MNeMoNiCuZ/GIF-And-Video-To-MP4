@@ -1,6 +1,6 @@
 # GIFAndVideoToMP4
 
-GIFAndVideoToMP4 is a versatile tool designed to convert GIFs and videos (MP4, MOV, AVI, MKV, WMV) to web-compatible MP4 format using FFmpeg. It supports both a drag-and-drop GUI interface and a command-line interface for batch processing.
+GIFAndVideoToMP4 is a versatile simple designed to convert GIFs and videos (MP4, MOV, AVI, MKV, WMV) to web-compatible MP4 format using FFmpeg. It supports both a drag-and-drop GUI interface and a command-line interface for batch processing.
 
 ![image](https://github.com/user-attachments/assets/8cfa38e2-e5a6-4200-92cf-0cb3092a29fc)
 
